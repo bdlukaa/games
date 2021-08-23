@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">native_admob_flutter</h1>
+  <h1 align="center">games</h1>
   <p align="center" >
     <a title="Discord" href="https://discord.gg/674gpDQUVq">
       <img src="https://img.shields.io/discord/809528329337962516?label=discord&logo=discord" />
@@ -16,3 +16,9 @@
 
 My Unity games. Some are actually playable, some are for learning.
 </div>
+
+## Resources
+
+- [Unity Documentation](https://unity.com/learn)
+- [Unity Beginner Tutorials by 
+Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
